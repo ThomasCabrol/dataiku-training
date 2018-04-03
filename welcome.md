@@ -1,6 +1,6 @@
 # Welcome
 
-## Getting Super Powers
+## Dataiku Trainings
 
 Becoming a super hero is a fairly straight forward process:
 
